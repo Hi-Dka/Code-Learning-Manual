@@ -150,10 +150,11 @@
   "lastOpenFiles": [
     "SUMMARY.md",
     "README.md",
+    "GLOSSARY.md",
+    "C++/README.md",
+    "C++/Design.md",
     "C++/polymorphism/README.md",
     "C++/polymorphism/未命名.md",
-    "C++/README.md",
-    "GLOSSARY.md",
     "C++/polymorphism",
     "C++",
     "ProjectPractices/README.md",
@@ -182,7 +183,6 @@
     "CodeAnalysis/stl.md",
     "CodeAnalysis/README.md",
     "CodeAnalysis/stl",
-    "C++/duo-tai/test.md",
-    "C++/duo-tai/README.md"
+    "C++/duo-tai/test.md"
   ]
 }
