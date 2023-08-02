@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructures/sorting/bubble-sort.md",
+                "file": "C++/duo-tai/READ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructures/sorting/bubble-sort.md",
+                "file": "C++/duo-tai/READ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructures/sorting/bubble-sort.md",
+                "file": "C++/duo-tai/READ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructures/sorting/bubble-sort.md"
+                "file": "C++/duo-tai/READ.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "1ab9151e594b51ec",
   "lastOpenFiles": [
-    "C++/duo-tai/test.md",
-    "DataStructures/sorting/bubble-sort.md",
     "SUMMARY.md",
+    "DataStructures/sorting/README.md",
+    "DataStructures/sorting/insertion-sort.md",
+    "DataStructures/sorting/bubble-sort.md",
+    "DataStructures/sorting/selection-sort.md",
+    "C++/duo-tai/READ.md",
+    "C++/duo-tai/test.md",
     "ProjectPractices/README.md",
     "README.md",
     "C++/README.md",
@@ -161,10 +165,7 @@
     "CodeAnalysis/stl/vector.md",
     "CodeAnalysis/README.md",
     "CodeAnalysis/stl.md",
-    "C++/duo-tai/README.md",
     "AlgorithmAnalysis/README.md",
-    "DataStructures/sorting/insertion-sort.md",
-    "DataStructures/sorting/selection-sort.md",
     "C++/oop.md",
     "CodeAnalysis/stl",
     "DataStructures/README.md",

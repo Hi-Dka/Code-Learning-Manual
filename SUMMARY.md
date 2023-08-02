@@ -2,7 +2,7 @@
 
 * [C语言](README.md)
 * [C++](c++/README.md)
-  * [多态](c++/duo-tai/README.md)
+  * [多态](c++/duo-tai/READ.md)
     * [test](c++/duo-tai/test.md)
 * [Linux](Linux/README.md)
 * [网络编程](Networking/README.md)
