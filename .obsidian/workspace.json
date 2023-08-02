@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md",
+                "file": "C++/Design_Patterns/README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md",
+                "file": "C++/Design_Patterns/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md",
+                "file": "C++/Design_Patterns/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md"
+                "file": "C++/Design_Patterns/README.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "1ab9151e594b51ec",
   "lastOpenFiles": [
-    "GLOSSARY.md",
+    "C++/Design_Patterns/Observer_Pattern/Oberver.md~",
+    "C++/Design_Patterns/Observer_Pattern/Oberver.md",
+    "C++/Design_Patterns/README.md",
     "SUMMARY.md",
     "README.md",
-    "C++/Design_Patterns/README.md",
-    "C++/Design_Patterns/Observer_Pattern/Oberver.md",
+    "C++/Design_Patterns/README.md~",
+    "GLOSSARY.md",
     "C++/Design_Patterns/Observer_Pattern",
     "C++/README.md",
     "C++/Design_Patterns",
@@ -177,12 +179,10 @@
     "DataStructures/page-1/README.md",
     "DataStructures/sorting.md",
     "DataStructures/sorting",
-    "DataStructures/page-1",
     "DataStructures/linked-list.md",
     "DataStructures/README.md",
     "CodeAnalysis/stl/vector.md",
     "CodeAnalysis/stl/allocate.md",
-    "CodeAnalysis/stl/README.md",
-    "CodeAnalysis/stl.md"
+    "CodeAnalysis/stl/README.md"
   ]
 }
