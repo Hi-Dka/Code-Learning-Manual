@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,13 +149,25 @@
   },
   "active": "1ab9151e594b51ec",
   "lastOpenFiles": [
+    "C++/Object_Oriented_Design/README.md",
+    "C++/Object_Oriented_Design/relationships_between_classes/README.md",
+    "C++/Object_Oriented_Design/Design_Patterns/README.md",
+    "C++/Object_Oriented_Design/Design_Patterns/Observer.md",
     "SUMMARY.md",
-    "C++/Design_Patterns/Observer_Pattern/Oberver.md",
-    "C++/Design_Patterns/README.md",
     "README.md",
+    "GLOSSARY.md",
+    "C++/Object_Oriented_Design/relationships_between_classes/Dependency.md",
+    "C++/Object_Oriented_Design/relationships_between_classes/Association.md",
+    "C++/Object_Oriented_Design/relationships_between_classes/Composition.md",
+    "C++/Object_Oriented_Design/relationships_between_classes/Aggregation.md",
+    "C++/Object_Oriented_Design/relationships_between_classes/Inheritance.md",
+    "C++/Object_Oriented_Design/relationships_between_classes",
+    "C++/Design_Patterns/Observer.md",
+    "C++/Design_Patterns/README.md",
+    "C++/Object_Oriented_Design/Design_Patterns",
+    "C++/Object_Oriented_Design",
     "C++/Design_Patterns/Observer_Pattern/Oberver.md~",
     "C++/Design_Patterns/README.md~",
-    "GLOSSARY.md",
     "C++/Design_Patterns/Observer_Pattern",
     "C++/README.md",
     "C++/Design_Patterns",
@@ -166,22 +179,11 @@
     "ProjectPractices/README.md",
     "ProjectPractices",
     "Networking/README.md",
-    "Networking",
     "Linux/README.md",
-    "Linux",
     "DataStructures/page-1/page-2/page-3.md",
     "DataStructures/page-1/page-2/README.md",
     "DataStructures/sorting/selection-sort.md",
     "DataStructures/sorting/insertion-sort.md",
-    "DataStructures/sorting/bubble-sort.md",
-    "DataStructures/sorting/README.md",
-    "DataStructures/page-1/page-2",
-    "DataStructures/page-1/README.md",
-    "DataStructures/sorting.md",
-    "DataStructures/linked-list.md",
-    "DataStructures/README.md",
-    "CodeAnalysis/stl/vector.md",
-    "CodeAnalysis/stl/allocate.md",
-    "CodeAnalysis/stl/README.md"
+    "DataStructures/sorting/bubble-sort.md"
   ]
 }
