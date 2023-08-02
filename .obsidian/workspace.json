@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "C++/Design_Patterns/Observer_Pattern/Oberver.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "1ab9151e594b51ec",
   "lastOpenFiles": [
+    "GLOSSARY.md",
     "SUMMARY.md",
     "README.md",
-    "GLOSSARY.md",
+    "C++/Design_Patterns/README.md",
+    "C++/Design_Patterns/Observer_Pattern/Oberver.md",
+    "C++/Design_Patterns/Observer_Pattern",
     "C++/README.md",
+    "C++/Design_Patterns",
     "C++/Design.md",
     "C++/polymorphism/README.md",
     "C++/polymorphism/未命名.md",
@@ -176,13 +180,9 @@
     "DataStructures/page-1",
     "DataStructures/linked-list.md",
     "DataStructures/README.md",
-    "DataStructures",
     "CodeAnalysis/stl/vector.md",
     "CodeAnalysis/stl/allocate.md",
     "CodeAnalysis/stl/README.md",
-    "CodeAnalysis/stl.md",
-    "CodeAnalysis/README.md",
-    "CodeAnalysis/stl",
-    "C++/duo-tai/test.md"
+    "CodeAnalysis/stl.md"
   ]
 }
