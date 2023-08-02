@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "176d7ab6d450d63f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae24d16ef4f3baae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab9151e594b51ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodeAnalysis/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "226713b1714b1c54",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bbba9c7b4d37c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b0309d01af0625",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1caffe5d8eef03a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d2cf5aae7a09a80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bc1a945bf3a6f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b25350953cccdb9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b631f22c343288e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CodeAnalysis/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1268cb7a6947583",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CodeAnalysis/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28ab56d897cc8024",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22268586bddbf77e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CodeAnalysis/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1ab9151e594b51ec",
+  "lastOpenFiles": [
+    "CodeAnalysis/stl.md",
+    "CodeAnalysis/README.md",
+    "CodeAnalysis/stl/allocate.md",
+    "CodeAnalysis/stl/vector.md",
+    "CodeAnalysis/stl",
+    "SUMMARY.md",
+    "DataStructures/README.md",
+    "DataStructures/sorting/insertion-sort.md",
+    "DataStructures/sorting/selection-sort.md",
+    "DataStructures/sorting.md",
+    "DataStructures/sorting/bubble-sort.md",
+    "DataStructures/sorting",
+    "DataStructures/linked-list.md",
+    "C++/oop.md",
+    "C++/README.md",
+    "C++/inheritance.md",
+    "C++/polymorphism.md",
+    "ProjectPractices/README.md",
+    "ProjectPractices",
+    "AlgorithmAnalysis/README.md",
+    "AlgorithmAnalysis",
+    "DataStructures",
+    "CodeAnalysis",
+    "Networking/README.md",
+    "Networking",
+    "Linux/README.md",
+    "Linux",
+    "C++",
+    "C/README.md",
+    "C",
+    "Networking/README 1.md"
+  ]
+}
