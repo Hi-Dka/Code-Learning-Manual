@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeAnalysis/README.md",
+                "file": "CodeAnalysis/stl/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeAnalysis/README.md",
+                "file": "CodeAnalysis/stl/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeAnalysis/README.md",
+                "file": "CodeAnalysis/stl/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeAnalysis/README.md"
+                "file": "CodeAnalysis/stl/README.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "1ab9151e594b51ec",
   "lastOpenFiles": [
-    "CodeAnalysis/stl.md",
+    "C++/duo-tai/README.md",
+    "CodeAnalysis/stl/README.md",
+    "C++/duo-tai/test.md",
+    "C++/README.md",
+    "C++/polymorphism.md",
+    "C++/oop.md",
+    "C++/inheritance.md",
     "CodeAnalysis/README.md",
+    "CodeAnalysis/stl.md",
     "CodeAnalysis/stl/allocate.md",
     "CodeAnalysis/stl/vector.md",
     "CodeAnalysis/stl",
@@ -161,10 +168,6 @@
     "DataStructures/sorting/bubble-sort.md",
     "DataStructures/sorting",
     "DataStructures/linked-list.md",
-    "C++/oop.md",
-    "C++/README.md",
-    "C++/inheritance.md",
-    "C++/polymorphism.md",
     "ProjectPractices/README.md",
     "ProjectPractices",
     "AlgorithmAnalysis/README.md",
