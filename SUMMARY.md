@@ -1,7 +1,9 @@
-# Code-Learning-Manual
+# Table of contents
 
-* [C语言](C/README.md)
-* [C++](C++/README.md)
+* [C语言](README.md)
+* [C++](c++/README.md)
+  * [多态](c++/duo-tai/README.md)
+    * [test](c++/duo-tai/test.md)
 * [Linux](Linux/README.md)
 * [网络编程](Networking/README.md)
 * [源码分析](CodeAnalysis/README.md)
