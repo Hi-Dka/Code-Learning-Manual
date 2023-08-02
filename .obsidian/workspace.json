@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeAnalysis/stl/README.md",
+                "file": "C++/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeAnalysis/stl/README.md",
+                "file": "C++/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeAnalysis/stl/README.md",
+                "file": "C++/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeAnalysis/stl/README.md"
+                "file": "C++/README.md"
               }
             }
           }
@@ -148,29 +148,29 @@
   },
   "active": "1ab9151e594b51ec",
   "lastOpenFiles": [
-    "C++/duo-tai/README.md",
-    "CodeAnalysis/stl/README.md",
-    "C++/duo-tai/test.md",
-    "C++/README.md",
     "C++/polymorphism.md",
-    "C++/oop.md",
     "C++/inheritance.md",
+    "C++/README.md",
+    "CodeAnalysis/stl/allocate.md",
+    "CodeAnalysis/stl/README.md",
+    "CodeAnalysis/stl/vector.md",
     "CodeAnalysis/README.md",
     "CodeAnalysis/stl.md",
-    "CodeAnalysis/stl/allocate.md",
-    "CodeAnalysis/stl/vector.md",
-    "CodeAnalysis/stl",
+    "C++/duo-tai/test.md",
+    "C++/duo-tai/README.md",
     "SUMMARY.md",
-    "DataStructures/README.md",
+    "AlgorithmAnalysis/README.md",
+    "DataStructures/sorting/bubble-sort.md",
     "DataStructures/sorting/insertion-sort.md",
     "DataStructures/sorting/selection-sort.md",
+    "C++/oop.md",
+    "CodeAnalysis/stl",
+    "DataStructures/README.md",
     "DataStructures/sorting.md",
-    "DataStructures/sorting/bubble-sort.md",
     "DataStructures/sorting",
     "DataStructures/linked-list.md",
     "ProjectPractices/README.md",
     "ProjectPractices",
-    "AlgorithmAnalysis/README.md",
     "AlgorithmAnalysis",
     "DataStructures",
     "CodeAnalysis",
