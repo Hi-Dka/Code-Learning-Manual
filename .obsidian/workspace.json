@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "48b0309d01af0625",
+  "active": "1ab9151e594b51ec",
   "lastOpenFiles": [
-    "C++/Design_Patterns/README.md",
-    "C++/Design_Patterns/Observer_Pattern/Oberver.md",
-    "README.md",
     "SUMMARY.md",
+    "C++/Design_Patterns/Observer_Pattern/Oberver.md",
+    "C++/Design_Patterns/README.md",
+    "README.md",
     "C++/Design_Patterns/Observer_Pattern/Oberver.md~",
     "C++/Design_Patterns/README.md~",
     "GLOSSARY.md",
