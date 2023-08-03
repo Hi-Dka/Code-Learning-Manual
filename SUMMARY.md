@@ -2,7 +2,7 @@
 
 * [👋 Welcome!](README.md)
 
-## C++
+# C++
 
 * [面向对象的设计](C++/Object_Oriented_Design/README.md)
 	* [类与类之间的五种关系](C++/Object_Oriented_Design/relationships_between_classes/README.md)
@@ -14,5 +14,5 @@
 	* [设计模式](C++/Object_Oriented_Design/Design_Patterns/README.md)
 		* [观察者模式](C++/Object_Oriented_Design/Design_Patterns/Observer.md)
 
-### 待办事项
-* [待办事项](ToDo/README.md)
+# 待办事项
+* [待办事情](ToDo/README.md)
