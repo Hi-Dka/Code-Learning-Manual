@@ -17,9 +17,14 @@
 
 ## Linux
 * [网络编程](Linux/Network_Programming/README.md)
-	* [字节序](Linux/Network_Programming/Endianness/README.md)
-	* [socket](Linux/Network_Programming/Socket)
-		* [setsockopt()](Linux/Network_Programming/Socket/setsockopt.md)
+	* [`字节序`](Linux/Network_Programming/Endianness/README.md)
+	* [`Socket`](Linux/Network_Programming/Socket/README.md)
+		* [`socket()`](Linux/Network_Programming/Socket/socket.md)
+		* [`bind()`](Linux/Network_Programming/Socket/bind.md)
+		* [`listen()`](Linux/Network_Programming/Socket/listen.md)
+		* [`accept()`](Linux/Network_Programming/Socket/accept.md)
+		* [`connect()`](Linux/Network_Programming/Socket/connect.md)
+		* [`setsockopt()`](Linux/Network_Programming/Socket/setsockopt.md)
 
 ## 待办事项
 * [ToDoList](ToDo/README.md)
