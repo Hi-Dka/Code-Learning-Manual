@@ -12,3 +12,5 @@
 - [ ] RAII技术
 - [ ] public叫接口继承、private和protect继承叫做实现继承
 - [ ] 字节序、16位、32位、十进制、十六进制、八进制（inet_aton/inet_pton）
+- [ ] recv/read、send/write
+- [ ] explicit
